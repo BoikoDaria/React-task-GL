@@ -1,0 +1,16 @@
+.user-photo {
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.user-info {
+    margin: 5px;
+    text-align: center;
+}
+.user-name {
+    text-transform: uppercase;
+    font-size: large;
+
+}

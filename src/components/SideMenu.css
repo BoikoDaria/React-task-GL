@@ -1,0 +1,19 @@
+.side-menu-container {
+        background-color: #4c56c0;
+        color: white;
+        height: 500px;
+        width: 300px;
+        margin-right: 0;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        position: fixed;
+}
+div .inner-menu-container {
+        line-height: 80px;
+        text-transform:  uppercase;
+
+}
+.inner-menu-container div:hover {
+        background-color: white;
+        color: #4c56c0;
+        border-radius: 0.5px;
+}

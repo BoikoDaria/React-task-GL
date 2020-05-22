@@ -1,0 +1,6 @@
+.header-container {
+    display: block;
+    width: 300px;
+    height: 150px;
+    background-image: url(../img/header1.png);
+}

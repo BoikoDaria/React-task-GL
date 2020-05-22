@@ -1,0 +1,13 @@
+.repo-container {
+    background-color: #ffffff;
+}
+.repo-container p {
+    margin-top: 0;
+}
+.repo-container h5 {
+    margin-bottom: 5px;
+}
+.table-menu {
+    display: flex;
+    justify-content: space-between;
+}
